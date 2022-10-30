@@ -24,9 +24,11 @@
 
 >“（白熊文件夹）好家伙，内容好丰富”——迷茫子
 
+>“好耶”——Toiuh
+
 ## 联系我们 Contact Us
 Email：[HK256@qq.com](mailto:HK256@qq.com)
 
 官方Q群：[594945037](https://jq.qq.com/?_wv=1027&k=2WQHZYfq)
 
-合作（是否商业均可）请联系微信：Hakuin_123
+合作（是否商业均可）请联系QQ：[3248927616](https://qm.qq.com/cgi-bin/qm/qr?k=f3_2wmpNC9sSGO2KLsETZRFTrgke7itS&noverify=0)
