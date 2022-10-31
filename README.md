@@ -19,7 +19,6 @@
 
 
 [![官方B站](https://img.shields.io/badge/bilibili-白隐Hakuin-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/478104735)
-[![官方Q群](https://img.shields.io/badge/QQ-白熊官方Q群-14B6F6?style=for-the-badge&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=2WQHZYfq)
 
 ## 评价 Evaluate
 
@@ -30,8 +29,9 @@
 >“好高级”——丞.
 
 ## 联系我们 Contact Us
-Email：[HK256@qq.com](mailto:HK256@qq.com)
 
-官方Q群：[594945037](https://jq.qq.com/?_wv=1027&k=2WQHZYfq)
+[![Email：HK256@qq.com](https://img.shields.io/badge/Email-HK256@qq.com-FF9F03?style=for-the-badge&logo=Gmail)](mailto：白隐Hakuin<HK256@qq.com>)
+
+[![官方Q群：594945037](https://img.shields.io/badge/QQ-白熊官方Q群-14B6F6?style=for-the-badge&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=2WQHZYfq)
 
 合作（是否商业均可）请联系QQ：[3248927616](https://qm.qq.com/cgi-bin/qm/qr?k=f3_2wmpNC9sSGO2KLsETZRFTrgke7itS&noverify=0)
