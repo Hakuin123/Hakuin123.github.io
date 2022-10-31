@@ -15,8 +15,7 @@
 
 [太 太 乐 圣 精](https://b23.tv/L3KjI9i)‖[解绑微软账户](https://github.com/Hakuin123/Unbind-MS-Acct-From-LocalAcct)‖[这是风的声音](https://hakuin123.github.io/The-sound-of-the-wind)
 
-[畅连GitHub]()‖[2048罗小黑](https://hakuin123.github.io/LXH2048/index.html)‖*[更多项目…](https://github.com/Hakuin123?tab=repositories)*
-
+[畅连GitHub]()‖[2048罗小黑](https://hakuin123.github.io/2048LXH/index.html)‖*[更多项目…](https://github.com/Hakuin123?tab=repositories)*
 
 [![官方B站](https://img.shields.io/badge/bilibili-白隐Hakuin-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/478104735)
 
@@ -25,6 +24,8 @@
 >“（白熊文件夹）好家伙，内容好丰富”——迷茫子
 
 >“好耶”——Toiuh
+
+>“好厉害的样子！没想到你竟然涉猎这么多领域…虽然都是数码这些，但是是我玩不明白的东西”——Ms.March
 
 >“好高级”——丞.
 
