@@ -10,12 +10,12 @@
 
 ## 探索 Explore
 
-- [白熊文件夹](https://hakuin123.github.io/HK256-Folder) - 白熊家的PC工具箱
-- [HeiFUN](https://hakuin123.github.io/HeiFUN) - 罗小黑妖灵论坛官方APP
+### [白熊文件夹](https://hakuin123.github.io/HK256-Folder) - 白熊家的PC工具箱
+### [HeiFUN](https://hakuin123.github.io/HeiFUN) - 罗小黑妖灵论坛APP
 
 [太 太 乐 圣 精](https://b23.tv/L3KjI9i)‖[解绑微软账户](https://github.com/Hakuin123/Unbind-MS-Acct-From-LocalAcct)‖[这是风的声音](https://hakuin123.github.io/The-sound-of-the-wind)
 
-[畅连GitHub]‖[2048罗小黑](https://hakuin123.github.io/LXH2048/index.html)‖*[更多项目…](https://github.com/Hakuin123?tab=repositories)*
+[畅连GitHub]()‖[2048罗小黑](https://hakuin123.github.io/LXH2048/index.html)‖*[更多项目…](https://github.com/Hakuin123?tab=repositories)*
 
 
 [![官方B站](https://img.shields.io/badge/bilibili-白隐Hakuin-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/478104735) 官方HeiBBS 官方Q群
@@ -25,6 +25,8 @@
 >“（白熊文件夹）好家伙，内容好丰富”——迷茫子
 
 >“好耶”——Toiuh
+
+>“好高级”——丞.
 
 ## 联系我们 Contact Us
 Email：[HK256@qq.com](mailto:HK256@qq.com)
