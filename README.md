@@ -18,7 +18,8 @@
 [畅连GitHub]()‖[2048罗小黑](https://hakuin123.github.io/LXH2048/index.html)‖*[更多项目…](https://github.com/Hakuin123?tab=repositories)*
 
 
-[![官方B站](https://img.shields.io/badge/bilibili-白隐Hakuin-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/478104735) 官方HeiBBS 官方Q群
+[![官方B站](https://img.shields.io/badge/bilibili-白隐Hakuin-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/478104735)
+[![官方Q群](https://img.shields.io/badge/QQ-白熊官方Q群-14B6F6?style=for-the-badge&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=2WQHZYfq)
 
 ## 评价 Evaluate
 
