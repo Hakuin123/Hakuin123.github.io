@@ -31,7 +31,7 @@
 
 ## 联系我们 Contact Us
 
-[![Email：HK256@qq.com](https://img.shields.io/badge/Email-HK256@qq.com-FF9F03?style=for-the-badge&logo=Gmail)](mailto：白隐Hakuin<HK256@qq.com>)
+[![Email：HK256@qq.com](https://img.shields.io/badge/Email-HK256@qq.com-FF9F03?style=for-the-badge&logo=Gmail)](mailto:白隐Hakuin<HK256@qq.com>)
 
 [![官方Q群：594945037](https://img.shields.io/badge/QQ群聊-①群:421853830-14B6F6?style=for-the-badge&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=2WQHZYfq)
 
