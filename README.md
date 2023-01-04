@@ -36,3 +36,6 @@
 [![官方Q群：594945037](https://img.shields.io/badge/QQ群聊-①群:421853830-14B6F6?style=for-the-badge&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=2WQHZYfq)
 
 合作（是否商业均可）请联系QQ：[3248927616](https://qm.qq.com/cgi-bin/qm/qr?k=f3_2wmpNC9sSGO2KLsETZRFTrgke7itS&noverify=0)
+
+
+<a href="https://icp.gov.moe/?keyword=20233033" target="_blank">萌ICP备20233033号</a>
