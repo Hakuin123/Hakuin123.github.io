@@ -10,12 +10,12 @@
 
 ## 探索 Explore
 
-### [白熊文件夹](https://hakuin123.github.io/HK256-Folder) - 白熊家的PC工具箱
-### [HeiFUN](https://hakuin123.github.io/HeiFUN) - 罗小黑妖灵论坛APP
+### [白熊文件夹](https://www.HK256.top/HK256-Folder) - 白熊家的PC工具箱
+### [HeiFUN](https://HeiFUN.HK256.top) - 罗小黑妖灵论坛APP
 
-[太 太 乐 圣 精](https://b23.tv/L3KjI9i)‖[解绑微软账户](https://github.com/Hakuin123/Unbind-MS-Acct-From-LocalAcct)‖[这是风的声音](https://hakuin123.github.io/The-sound-of-the-wind)
+[太 太 乐 圣 精](https://b23.tv/L3KjI9i)‖[解绑微软账户](https://github.com/Hakuin123/Unbind-MS-Acct-From-LocalAcct)‖[这是风的声音](https://www.HK256.top/The-sound-of-the-wind)
 
-[畅连GitHub]()‖[2048罗小黑](https://hakuin123.github.io/2048LXH/index.html)‖*[更多项目…](https://github.com/Hakuin123?tab=repositories)*
+[畅连GitHub]()‖[2048罗小黑](https://2048LXH.HK256.top)‖*[更多项目…](https://github.com/Hakuin123?tab=repositories)*
 
 [![官方B站](https://img.shields.io/badge/bilibili-白隐Hakuin-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/478104735)
 
@@ -37,5 +37,6 @@
 
 合作（是否商业均可）请联系QQ：[3248927616](https://qm.qq.com/cgi-bin/qm/qr?k=f3_2wmpNC9sSGO2KLsETZRFTrgke7itS&noverify=0)
 
+---
 
 <a href="https://icp.gov.moe/?keyword=20233033" target="_blank">萌ICP备20233033号</a>
