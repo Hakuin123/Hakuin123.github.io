@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "hk256.top",
+  "Id": "431593ff-9180-436c-ac28-85e916a07e78"
+}
